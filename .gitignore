@@ -1,0 +1,15 @@
+*.pyc
+opendr-3/__pycache__/
+opendr-3/dist/
+opendr-3/build/
+chumpy-3/build/
+chumpy-3/chumpy/__pycache__/
+videoavatars-py3/demo/
+videoavatars-py3/output/
+__pycache__/
+.DS_Store
+videoavatars-py3/vendor/*
+!videoavatars-py3/vendor/__init__.py
+videoavatars-py3/smpl/
+videoavatars-py3/smplify/
+
